@@ -1,0 +1,13 @@
+log:
+  logDir: /Users/arlenli/Repositories/dts/log/
+  logLevel: INFO
+  logName: all.log
+  errLogName: err.log
+ecs:
+  version: v20140526
+  endpint: dts.aliyuncs.com
+  region: cn-hangzhou
+dts:
+  version: v20180801
+  endpint: ecs-cn-hangzhou.aliyuncs.com
+  region: cn-hangzhou
