@@ -1,5 +1,5 @@
 log:
-  logDir: /Users/arlenli/Repositories/dts/log/
+  logDir: /Users/arlenli/Repositories/golang/log/
   logLevel: INFO
   logName: all.log
   errLogName: err.log
